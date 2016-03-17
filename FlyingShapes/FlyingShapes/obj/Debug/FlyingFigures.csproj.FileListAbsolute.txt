@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\FlyingFigures.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingFigures.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingFigures.Main.resources
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingFigures.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingFigures.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\FlyingFigures.exe
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\FlyingFigures.pdb
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingFigures.exe
+c:\users\user\documents\visual studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingFigures.pdb

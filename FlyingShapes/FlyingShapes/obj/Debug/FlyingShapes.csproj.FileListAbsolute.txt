@@ -1,0 +1,43 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\FlyingShapes.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\FlyingShapes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\FlyingShapes.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.Main.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\ru-RU\FlyingShapes.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\uk-UA\FlyingShapes.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.Resourсes.Resource.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.Resourсes.Resource.ru-RU.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.Resourсes.Resource.uk-UA.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\ru-RU\FlyingShapes.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\uk-UA\FlyingShapes.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\en\FlyingShapes.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.Main.en.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\en\FlyingShapes.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\bin\Debug\ru\FlyingShapes.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\FlyingShapes.Main.ru.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\FlyingFigures\FlyingFigures\obj\Debug\ru\FlyingShapes.resources.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\FlyingShapes.exe.config
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.exe
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.pdb
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\FlyingShapes.exe
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\FlyingShapes.pdb
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.Main.resources
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.Properties.Resources.resources
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.csproj.GenerateResource.Cache
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\en\FlyingShapes.resources.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\ru\FlyingShapes.resources.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\uk\FlyingShapes.resources.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.Main.en.resources
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.Main.ru.resources
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\FlyingShapes.Main.uk.resources
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\en\FlyingShapes.resources.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\ru\FlyingShapes.resources.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\obj\Debug\uk\FlyingShapes.resources.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\NLog.config
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\NLog.dll
+C:\Users\User\Source\Repos\FS\FlyingShapes\FlyingShapes\bin\Debug\NLog.xml

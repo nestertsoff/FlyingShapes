@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shape xsi:type="Square">
+    <Color>-10318277</Color>
+    <Height>66</Height>
+    <IsFilled>false</IsFilled>
+    <IsKicked>false</IsKicked>
+    <Speed>6</Speed>
+    <Width>66</Width>
+    <XCoord>524</XCoord>
+    <XSpeed>1</XSpeed>
+    <YCoord>106</YCoord>
+    <YSpeed>4</YSpeed>
+  </Shape>
+  <Shape xsi:type="Square">
+    <Color>-9104123</Color>
+    <Height>18</Height>
+    <IsFilled>false</IsFilled>
+    <IsKicked>false</IsKicked>
+    <Speed>5</Speed>
+    <Width>18</Width>
+    <XCoord>125</XCoord>
+    <XSpeed>0</XSpeed>
+    <YCoord>268</YCoord>
+    <YSpeed>4</YSpeed>
+  </Shape>
+  <Shape xsi:type="Square">
+    <Color>-14512359</Color>
+    <Height>91</Height>
+    <IsFilled>false</IsFilled>
+    <IsKicked>false</IsKicked>
+    <Speed>2</Speed>
+    <Width>91</Width>
+    <XCoord>293</XCoord>
+    <XSpeed>0</XSpeed>
+    <YCoord>245</YCoord>
+    <YSpeed>1</YSpeed>
+  </Shape>
+  <Shape xsi:type="Square">
+    <Color>-2068613</Color>
+    <Height>38</Height>
+    <IsFilled>false</IsFilled>
+    <IsKicked>false</IsKicked>
+    <Speed>4</Speed>
+    <Width>38</Width>
+    <XCoord>721</XCoord>
+    <XSpeed>2</XSpeed>
+    <YCoord>339</YCoord>
+    <YSpeed>1</YSpeed>
+  </Shape>
+</ArrayOfShape>
